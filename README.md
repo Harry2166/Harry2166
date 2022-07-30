@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Harry2166, but you can call me Harry!
-- 👀 I’m interested in many things, but mainly in computers, math, video games, history, movies, books, and a lot of other stuff!
-- 📫 How to reach me: Twitter: @TheHarry2166_ 
+## 👋 Hello there, I’m Harry!
 
 <!---
 Harry2166/Harry2166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
