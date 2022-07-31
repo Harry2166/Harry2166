@@ -1,7 +1,7 @@
 ## 👋 Hello there, I’m Harry!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harry2166&show_icons=true&theme=radical" />
-<img align"left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry2166&layout=compact" />
+<img align"left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry2166&layout=compact&langs_count=8" />
 
 
 <!---
