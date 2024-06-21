@@ -1,6 +1,9 @@
 ## 👋 Hello there, I’m Harry!
 
-I am a Computer Science student currently studying in the University of the Philippines Diliman. I have a passion for game development, but also all things Computer Science. 
+I am a Computer Science student currently studying in the University of the Philippines Diliman. I have a passion for game development, but also for all things Computer Science. 
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harry2166&show_icons=true&theme=radical" />
+<img align"left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry2166&layout=compact" />
 
 ---
 
@@ -22,12 +25,12 @@ I am a Computer Science student currently studying in the University of the Phil
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
+
 ### Currently Learning
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/svelte/svelte-original.svg" />
+
 <br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harry2166&show_icons=true&theme=radical" />
-<img align"left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry2166&layout=compact" />
 
 <!---
 Harry2166/Harry2166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
