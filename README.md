@@ -29,7 +29,8 @@ I am a Computer Science student currently studying in the University of the Phil
 ### Currently Learning
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/svelte/svelte-original.svg" />
-
+<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rails/rails-plain.svg" />
+<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg" />
 <br>
 
 <!---
