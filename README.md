@@ -12,15 +12,12 @@ I am a Computer Science student currently studying in the University of the Phil
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rails/rails-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
-<br>
-<br>
-
-### Currently Learning
-<br>
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
 
 <!---
 Harry2166/Harry2166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
