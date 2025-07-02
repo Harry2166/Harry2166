@@ -2,8 +2,8 @@
 
 I am a Computer Science student currently studying in the University of the Philippines Diliman. I have a passion for game development, but also for all things Computer Science. 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harry2166&show_icons=true&theme=radical" />
-
+### Stats
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=harry2166&show_icons=true&theme=radical" />
 
 ### Languages and Technologies
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
